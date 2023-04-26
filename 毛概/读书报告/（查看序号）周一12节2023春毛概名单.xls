@@ -1,0 +1,2386 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2023-02-26T23:28:27</o:Created>
+     <o:LastAuthor>李壮</o:LastAuthor>
+     <o:LastSaved>2023-02-26T23:31:31</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:ICV dt:dt="string">ACAF74B63B8849E08E74B8E264214E6D</o:ICV>
+     <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.13703</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1.00in 0.75in 1.00in 0.75in;
+	mso-header-margin:0.50in;
+	mso-footer-margin:0.50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#000000;
+	font-size:9.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font15
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font16
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font22
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style19
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	font-size:15.0pt;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:left;
+	font-size:9.0pt;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:center;
+	white-space:normal;
+	font-size:9.0pt;
+	mso-font-charset:134;
+	border:1.0pt solid #000000;}
+.xl69
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:left;
+	white-space:normal;
+	font-size:9.0pt;
+	mso-font-charset:134;
+	border:1.0pt solid #000000;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>（查看序号）周一12节2023春毛概名单</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>240</x:DefaultRowHeight>
+        <x:StandardWidth>2234</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>8</x:ActiveCol>
+          <x:ActiveRow>134</x:ActiveRow>
+          <x:RangeSelection>I135</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>7270</x:WindowHeight>
+     <x:WindowWidth>18530</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple" class="xl65">
+  <table width="948" border="0" cellpadding="0" cellspacing="0" style='width:474.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="63" class="xl65" style='mso-width-source:userset;mso-width-alt:1535;'/>
+   <col width="138" class="xl65" style='mso-width-source:userset;mso-width-alt:3364;'/>
+   <col width="84" class="xl65" style='mso-width-source:userset;mso-width-alt:2047;'/>
+   <col width="327" class="xl65" style='mso-width-source:userset;mso-width-alt:7972;'/>
+   <col width="63" class="xl65" style='mso-width-source:userset;mso-width-alt:1535;'/>
+   <col width="105" span="2" class="xl65" style='mso-width-source:userset;mso-width-alt:2559;'/>
+   <col width="63" class="xl65" style='mso-width-source:userset;mso-width-alt:1535;'/>
+   <col width="96" span="248" class="xl65" style='mso-width-source:userset;mso-width-alt:2340;'/>
+   <tr height="37" style='height:18.50pt;'>
+    <td class="xl66" height="37" width="612" colspan="4" style='height:18.50pt;width:306.00pt;mso-ignore:colspan;' x:str>中国海洋大学上课班级选课学生</td>
+    <td class="xl65" width="63" style='width:31.50pt;'></td>
+    <td class="xl65" width="105" style='width:52.50pt;'></td>
+    <td class="xl65" width="105" style='width:52.50pt;'></td>
+    <td class="xl65" width="63" style='width:31.50pt;'></td>
+   </tr>
+   <tr height="24" style='height:12.00pt;'>
+    <td class="xl67" height="24" colspan="2" style='height:12.00pt;mso-ignore:colspan;' x:str>选课号：19000237</td>
+    <td class="xl65" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="24" style='height:12.00pt;'>
+    <td class="xl67" height="24" colspan="4" style='height:12.00pt;mso-ignore:colspan;' x:str>课程名称：毛泽东思想和中国特色社会主义理论体系概论</td>
+    <td class="xl65" colspan="4" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="24" style='height:12.00pt;'>
+    <td class="xl67" height="24" colspan="2" style='height:12.00pt;mso-ignore:colspan;' x:str>学时：56</td>
+    <td class="xl65" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="24" style='height:12.00pt;'>
+    <td class="xl67" height="24" style='height:12.00pt;' x:str>学分：3</td>
+    <td class="xl65" colspan="7" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl67" height="25.50" colspan="2" style='height:12.75pt;mso-ignore:colspan;' x:str>上课人数：146</td>
+    <td class="xl65" colspan="6" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>序号</td>
+    <td class="xl68" x:str>学号</td>
+    <td class="xl68" x:str>姓名</td>
+    <td class="xl68" x:str>专业年级</td>
+    <td class="xl68" x:str>性别</td>
+    <td class="xl68" x:str>修读标志</td>
+    <td class="xl68" x:str>在校状态</td>
+    <td class="xl68" x:str>备注</td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>1</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>阮昱强</td>
+    <td class="xl69" x:str>工业设计 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>2</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>陈牧言</td>
+    <td class="xl69" x:str>计算机科学与技术 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>3</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>杜政博</td>
+    <td class="xl69" x:str>计算机科学与技术 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>4</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王培楚</td>
+    <td class="xl69" x:str>网络空间安全 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>5</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>高亚楠</td>
+    <td class="xl69" x:str>计算机科学与技术 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>6</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>孙文豪</td>
+    <td class="xl69" x:str>自动化 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>7</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>罗康</td>
+    <td class="xl69" x:str>计算机科学与技术 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>8</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李浩</td>
+    <td class="xl69" x:str>水产养殖学 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>9</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>崔宇航</td>
+    <td class="xl69" x:str>机械设计制造及其自动化 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>10</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王啸</td>
+    <td class="xl69" x:str>港口航道与海岸工程 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>11</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>戴宦臻</td>
+    <td class="xl69" x:str>轮机工程 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>12</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>栗振宇</td>
+    <td class="xl69" x:str>自动化 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>13</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李希娟</td>
+    <td class="xl69" x:str>计算机科学与技术 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>14</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>许健</td>
+    <td class="xl69" x:str>计算机科学与技术 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>15</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>陈睿骁</td>
+    <td class="xl69" x:str>网络空间安全 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>16</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>施雪雯</td>
+    <td class="xl69" x:str>数学类 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>17</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>补雨</td>
+    <td class="xl69" x:str>高分子材料与工程 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>18</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李翔宇</td>
+    <td class="xl69" x:str>材料科学与工程 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>19</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>谯梓豪</td>
+    <td class="xl69" x:str>材料科学与工程 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>20</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王奎轩</td>
+    <td class="xl69" x:str>材料科学与工程 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>21</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>周嘉俊</td>
+    <td class="xl69" x:str>材料科学与工程 2020</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>22</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>熊宇轩</td>
+    <td class="xl69" x:str>大气科学 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>23</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>蔡学鹏</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>24</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>段皓文</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>25</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>刘宇璨</td>
+    <td class="xl69" x:str>电子信息科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>26</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>史贤浩</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>27</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>孙彦豪</td>
+    <td class="xl69" x:str>电子信息科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>28</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>汪洋</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>29</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王朝霞</td>
+    <td class="xl69" x:str>电子信息工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>30</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王小涵</td>
+    <td class="xl69" x:str>电子信息科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>31</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王晓航</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>32</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王心跃</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>33</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王雪松</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>34</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王宇航</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>35</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王玉尔</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>36</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>余博旸</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>37</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>余泓麟</td>
+    <td class="xl69" x:str>电子信息工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>38</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张健平</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>39</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>朱岭松</td>
+    <td class="xl69" x:str>微电子科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>40</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>常静</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>41</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>陈洪锌</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>42</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>陈佩瑶</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>43</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>陈岳阳</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>44</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>范晓颖</td>
+    <td class="xl69" x:str>网络空间安全 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>45</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>甘海</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>46</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>高世钰</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>47</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>郭富豪</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>48</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>韩翔</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>49</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>黄锐</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>50</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>火统晅</td>
+    <td class="xl69" x:str>保密技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>51</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>蒯奇</td>
+    <td class="xl69" x:str>智能科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>52</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李满鹏</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>53</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李牧奇</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>54</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李睿</td>
+    <td class="xl69" x:str>数据科学与大数据技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>55</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李政绪</td>
+    <td class="xl69" x:str>保密技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>56</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>梁方明</td>
+    <td class="xl69" x:str>智能科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>57</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>梁方洲</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>58</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>廖伟鹏</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>59</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>刘鑫洋</td>
+    <td class="xl69" x:str>保密技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>60</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>吕国良</td>
+    <td class="xl69" x:str>保密技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>61</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>马柯梁</td>
+    <td class="xl69" x:str>保密技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>62</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>马子淇</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>63</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>普典衡</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>64</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>乔贤争</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>65</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>司宇萌</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>66</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>孙文秀</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>67</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>孙延都</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>68</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>檀宗晗</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>69</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>唐亚彤</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>70</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>汪涛</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>71</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王斌</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>72</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王诗梦</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>73</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王祥</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>74</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王智</td>
+    <td class="xl69" x:str>软件工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>75</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>吴新冉</td>
+    <td class="xl69" x:str>网络空间安全 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>76</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>伍思瑶</td>
+    <td class="xl69" x:str>网络空间安全 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>77</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>许传銮</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>78</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>杨莹</td>
+    <td class="xl69" x:str>网络空间安全 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>79</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张润东</td>
+    <td class="xl69" x:str>计算机科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>80</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>赵凌云</td>
+    <td class="xl69" x:str>保密技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>81</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>周安鑫</td>
+    <td class="xl69" x:str>网络空间安全 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>82</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李勇琦</td>
+    <td class="xl69" x:str>地球信息科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>83</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>白彦</td>
+    <td class="xl69" x:str>海洋渔业科学与技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>84</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>崔莘翌</td>
+    <td class="xl69" x:str>海洋资源开发技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>85</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>崔馨允</td>
+    <td class="xl69" x:str>海洋资源开发技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>86</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>崔一民</td>
+    <td class="xl69" x:str>海洋资源开发技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>87</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>郭宇辰</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>88</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>雷鑫杰</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>89</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李俊键</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>90</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>梁钰</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>91</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>宋丹阳</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>92</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>宋世佳</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>93</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>孙中侨</td>
+    <td class="xl69" x:str>海洋资源开发技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>94</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王滢</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>95</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>吴子骏</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>96</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>徐安彤</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>97</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>余泓蓁</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>98</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>袁夏薇</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>99</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张桐</td>
+    <td class="xl69" x:str>海洋资源开发技术 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>100</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张伟杰</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>101</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张耀宪</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>102</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张怡坤</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>103</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张雨</td>
+    <td class="xl69" x:str>食品科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>104</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>陈成</td>
+    <td class="xl69" x:str>工程管理 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>105</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>刘家诚</td>
+    <td class="xl69" x:str>工程管理 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>106</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>孙文震</td>
+    <td class="xl69" x:str>工程管理 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>107</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张宏宇</td>
+    <td class="xl69" x:str>工业设计 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>108</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>徐天浩</td>
+    <td class="xl69" x:str>港口航道与海岸工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>109</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>黄成斌</td>
+    <td class="xl69" x:str>轮机工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>110</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>董浩年</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>111</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>高海宁</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>112</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>高浩然</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>113</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>何栋昊</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>114</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>侯伟林</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>115</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>贾晓菲</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>116</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>赖立臣</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>117</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>雷鸣</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>118</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>李佳诺</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>119</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>倪婕</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>120</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>阮宏亮</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>121</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王蓓</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>122</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>魏保鑫</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>123</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>吴贵鹏</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>124</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>信鑫</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>125</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>许诗语</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>126</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>杨冰燕</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>127</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>杨晨</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>128</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>于天雷</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>129</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>余国敖</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>130</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>张兴</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>131</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>赵威严</td>
+    <td class="xl69" x:str>自动化 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>132</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>安慧月</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>133</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>陈星</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>134</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>崔海静</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>135</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>刘明</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>136</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>刘起堃</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>137</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>彭啸天</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>138</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>彭钰</td>
+    <td class="xl69" x:str>材料科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>139</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>沈怡菲</td>
+    <td class="xl69" x:str>材料科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>140</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>孙泺康</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>141</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王鸿晔</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>142</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>王志杰</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>143</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>吴敏</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>144</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>肖玻慧</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>145</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>袁明宇</td>
+    <td class="xl69" x:str>高分子材料与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <tr height="25.50" style='height:12.75pt;'>
+    <td class="xl68" height="25.50" style='height:12.75pt;' x:str>146</td>
+    <td class="xl69"></td>
+    <td class="xl69" x:str>朱海欣</td>
+    <td class="xl69" x:str>材料科学与工程 2021</td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl68"></td>
+    <td class="xl69"></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="63" style='width:32;'></td>
+     <td width="138" style='width:69;'></td>
+     <td width="84" style='width:42;'></td>
+     <td width="327" style='width:164;'></td>
+     <td width="63" style='width:32;'></td>
+     <td width="105" style='width:53;'></td>
+     <td width="63" style='width:32;'></td>
+     <td width="96" style='width:48;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
